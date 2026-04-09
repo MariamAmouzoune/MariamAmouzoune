@@ -21,11 +21,11 @@
   <br>
   🏛️ PhD completed at <strong>Ibn Tofail University</strong> in collaboration with <strong>ICARDA</strong>, Rabat, Morocco
   <br>
-  💻 Proficient in <strong>R</strong> for large-scale genomic data analysis
+   Proficient in <strong>R</strong> for large-scale genomic data analysis
   <br>
-  🌍 Experienced in international research collaboration and field/greenhouse disease screening
+   Experienced in international research collaboration and field/greenhouse disease screening
   <br>
-  📄 Author of <strong>4+ peer-reviewed publications</strong> in scientific journals (Scientific Reports, Agriculture, Crop Science)
+   Author of <strong>4+ peer-reviewed publications</strong> in scientific journals (Scientific Reports, Agriculture, Crop Science)
   <br>
   🔬 Currently seeking opportunities in <strong>plant science, genomics, or bioinformatics</strong>
   <br>
