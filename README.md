@@ -29,8 +29,7 @@
   <br>
   🔬 Currently seeking opportunities in <strong>plant science, genomics, or bioinformatics</strong>
   <br>
-  💬 Ask me anything about GWAS, plant pathology, or barley genomics from <a href="https://github.com/mariam-amouzoune/mariam-amouzoune/issues" title="Issues">here</a>
-  <br>
+ 
   📫 How to reach me: <a href="mailto:mariam.amouzoune@gmail.com">mariam.amouzoune@gmail.com</a>
 </p>
 
