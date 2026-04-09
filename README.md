@@ -39,30 +39,33 @@
 <h2 align="center">🧬 Research Expertise & Tools 🌾</h2>
 <br>
 
-<h4 align="center">🔬 Bioinformatics & Genomics</h4>
+
+<h4 align="center">🖥️ Programming & Environments</h4>
 <p align="center">
-  <img title="R" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  &nbsp;
-  <img title="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  &nbsp;
-  <img title="Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  &nbsp;
-  <img title="Bash" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  &nbsp;
-  <img title="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  &nbsp;
-  <img title="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R Statistical Computing">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux Command Line">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" title="Bash Scripting">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook">
+  </p>
+
+<h4 align="center">🧬 Genomics & Bioinformatics Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/TASSEL-2d8a4e?style=for-the-badge&logo=dna&logoColor=white" title="TASSEL - Trait Analysis by aSSociation Evolution and Linkage">
+  <img src="https://img.shields.io/badge/PLINK-1.9%20%7C%202.0-4a7c35?style=for-the-badge&logoColor=white" title="PLINK Whole Genome Association Analysis">
+  <img src="https://img.shields.io/badge/NCBI%20BLAST-336699?style=for-the-badge&logo=databricks&logoColor=white" title="NCBI BLAST - Sequence Alignment">
+  <img src="https://img.shields.io/badge/Genstat-6aaa5e?style=for-the-badge&logoColor=white" title="Genstat Statistical Analysis">
+  <img src="https://img.shields.io/badge/STRUCTURE-8b4513?style=for-the-badge&logoColor=white" title="STRUCTURE - Population Structure Analysis">
+  <img src="https://img.shields.io/badge/GATK-c0392b?style=for-the-badge&logoColor=white" title="GATK - Variant Calling">
 </p>
 
-<h4 align="center">📊 Analysis & Data</h4>
+
+<h4 align="center">📊 Data & Office Tools</h4>
 <p align="center">
-  <img title="Jupyter" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  &nbsp;
-  <img title="VSCode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  &nbsp;
-  <img title="NumPy" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  &nbsp;
-  <img title="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Microsoft Excel">
+  <img src="https://img.shields.io/badge/NCBI%20Databases-336699?style=for-the-badge&logo=databricks&logoColor=white" title="NCBI GenBank, SRA, dbSNP">
+  <img src="https://img.shields.io/badge/Ensembl%20Plants-2d8a4e?style=for-the-badge&logoColor=white" title="Ensembl Plant Genome Browser">
+  <img src="https://img.shields.io/badge/Galaxy%20Platform-2c3e50?style=for-the-badge&logoColor=white" title="Galaxy Bioinformatics Platform">
 </p>
 
 <br>
