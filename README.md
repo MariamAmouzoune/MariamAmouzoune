@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mariam+Amouzoune;Plant+Genomics+%26+Pathology+PhD;Nice+to+meet+you!&center=true&size=28&color=2d8a4e">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mariam+Amouzoune;Plant+Genomics+%26+Pathology+PhD;Nice+to+meet+you!&center=true&size=23&color=2d8a4e">
   </a>
 </h1>
 
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm <strong>Mariam Amouzoune</strong> — PhD in Plant Breeding & Molecular Biology from Morocco 🇲🇦
+  Hi, I'm <strong>Mariam Amouzoune</strong> — PhD in Plant Breeding & Molecular Biology
   <br><br>
   🌾 My doctoral research focused on <strong>barley leaf rust resistance</strong> (<em>Puccinia hordei</em>) using Genome-Wide Association Studies (GWAS)
   <br>
