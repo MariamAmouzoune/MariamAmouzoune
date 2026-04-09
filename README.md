@@ -132,28 +132,6 @@
   <em>🔬 2 additional papers currently in preparation — targeting <strong>Plants</strong> and <strong>Crop Science</strong></em>
 </p>
 
-<hr>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=mariam-amouzoune&theme=vue&border=2d8a4e&hide_border=true" alt="mariam-amouzoune"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mariam-amouzoune&show_icons=true&theme=vue&border_color=2d8a4e&hide_border=true&icon_color=2d8a4e"/>
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-amouzoune&title_color=2d8a4e&text_color=333333&icon_color=2d8a4e&bg_color=f0f7f1&langs_count=6&layout=compact&border_color=2d8a4e&hide_border=true"/>
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariam-amouzoune&theme=vue&bg_color=f0f7f1&color=2d8a4e&line=4a7c35&point=2d8a4e&hide_border=true" width="100%"/>
-</p>
 
 <hr>
 
@@ -181,8 +159,6 @@
 
 <hr>
 
-<h2 align="center">🌍 Languages 🌍</h2>
-<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Tamazight-Native-2d8a4e?style=for-the-badge">
   <img src="https://img.shields.io/badge/Arabic-Fluent-4a7c35?style=for-the-badge">
