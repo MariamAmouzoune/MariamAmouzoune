@@ -21,7 +21,7 @@
   <br>
   🏛️ PhD completed at <strong>Ibn Tofail University</strong> in collaboration with <strong>ICARDA</strong>, Rabat, Morocco
   <br>
-  💻 Proficient in <strong>R</strong> and <strong>Python</strong> for large-scale genomic data analysis
+  💻 Proficient in <strong>R</strong> for large-scale genomic data analysis
   <br>
   🌍 Experienced in international research collaboration and field/greenhouse disease screening
   <br>
