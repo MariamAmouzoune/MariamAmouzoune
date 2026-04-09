@@ -7,14 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mariam-amouzoune/" title="LinkedIn Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-  <code><a href="https://scholar.google.com/" title="Google Scholar">
-    <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"> Google Scholar</a></code>
-  <code><a href="https://www.researchgate.net/" title="ResearchGate Profile">
-    <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"> ResearchGate</a></code>
-  <code><a href="https://orcid.org/" title="ORCID Profile">
-    <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"> ORCID</a></code>
+  <code><a href="https://www.linkedin.com/in/mariam-amouzoune/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>  <code><a href="https://scholar.google.com/" title="Google Scholar"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"> Google Scholar</a></code>  <code><a href="https://www.researchgate.net/" title="ResearchGate Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"> ResearchGate</a></code>  <code><a href="https://orcid.org/" title="ORCID Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"> ORCID</a></code>
 </h5>
 
 <br>
@@ -38,7 +31,7 @@
   <br>
   💬 Ask me anything about GWAS, plant pathology, or barley genomics from <a href="https://github.com/mariam-amouzoune/mariam-amouzoune/issues" title="Issues">here</a>
   <br>
-  📫 How to reach me: <a href="mailto:m.amouzoune@gmail.com">m.amouzoune@gmail.com</a>
+  📫 How to reach me: <a href="mailto:mariam.amouzoune@gmail.com">mariam.amouzoune@gmail.com</a>
 </p>
 
 <hr>
