@@ -1,13 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mariam-amouzoune.mariam-amouzoune">
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mariam+Amouzoune;Plant+Genomics+%26+Pathology+PhD;Nice+to+meet+you!&center=true&size=23&color=2d8a4e">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mariam+Amouzoune;Plant+Genomics+%26+Pathology+PhD;Nice+to+meet+you!&center=true&size=28&color=2d8a4e">
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mariam-amouzoune/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>  <code><a href="https://scholar.google.com/" title="Google Scholar"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"> Google Scholar</a></code>  <code><a href="[https://www.researchgate.net](https://www.researchgate.net/profile/Mariam_Amouzoune?ev=hdr_xprf)/" title="[[ResearchGate Profile](https://www.researchgate.net/profile/Mariam_Amouzoune?ev=hdr_xprf)](https://www.researchgate.net/profile/Mariam_Amouzoune)"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"> ResearchGate</a></code>  <code><a href="https://orcid.org/" title="ORCID Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"> ORCID</a></code>
+<code><a href="https://www.linkedin.com/in/mariam-amouzoune-77bb02182/" title="LinkedIn Profile"> <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code> <code><a href="https://scholar.google.com/" title="Google Scholar"> <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"> Google Scholar</a></code> <code><a href="https://www.researchgate.net/profile/Mariam_Amouzoune?ev=hdr_xprf" title="ResearchGate Profile">  <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"> ResearchGate</a></code>  <code><a href="https://orcid.org/0000-0003-3011-2620" title="ORCID Profile">  <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"> ORCID</a></code>
 </h5>
 
 <br>
